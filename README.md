@@ -10,10 +10,10 @@ $ npm install state-adjacency
 
 ## Example
 
-```
+```js
 var stateAdjacency = require('state-adjacency');
 
-console.log(stateAdjacency('MI'));
+console.log(stateAdjacency('mi'));
 // prints ["wi","in","oh"]
 ```
 
