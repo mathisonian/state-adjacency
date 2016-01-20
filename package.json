@@ -4,7 +4,7 @@
   "description": "A function that returns adjacent states",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "semistandard && mocha"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/mathisonian/state-adjacency/issues"
   },
-  "homepage": "https://github.com/mathisonian/state-adjacency#readme"
+  "homepage": "https://github.com/mathisonian/state-adjacency#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.4",
+    "semistandard": "^7.0.5"
+  }
 }
