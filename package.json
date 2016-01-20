@@ -1,0 +1,25 @@
+{
+  "name": "state-adjacency",
+  "version": "1.0.0",
+  "description": "A function that returns adjacent states",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathisonian/state-adjacency.git"
+  },
+  "keywords": [
+    "state",
+    "adjacency",
+    "maps",
+    "geo"
+  ],
+  "author": "Matthew Conlen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathisonian/state-adjacency/issues"
+  },
+  "homepage": "https://github.com/mathisonian/state-adjacency#readme"
+}
